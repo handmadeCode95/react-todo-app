@@ -1,6 +1,6 @@
 # React Coins
 
-- https://handmadecode95.github.io/react-todo-app/
+- https://handmadecode95.github.io/react-todo-app
 - React.js, TypeScript
 - Recoil, React Hook Form
 
