@@ -7,9 +7,17 @@ const Li = styled.li`
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: #303033;
+  margin-bottom: 0.5vw;
+  padding: 3px;
+  border-radius: 5px;
   div {
     display: flex;
     flex-wrap: nowrap;
+    padding-right: 3px;
+  }
+  span {
+    padding-left: 3px;
   }
 `;
 
