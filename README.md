@@ -1,4 +1,4 @@
-# React Coins
+# React Todo-App
 
 - https://handmadecode95.github.io/react-todo-app
 - React.js, TypeScript
